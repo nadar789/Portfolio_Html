@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(90deg, grey, black);
+}
+
+nav {
+    font-size: large;
+    color: red;
+    margin: 2%;
+}
+
+p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 2%;
+    color: rgb(255, 187, 0);
+
+}
+
+ul {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 2%;
+    color: rgb(255, 187, 0);
+
+}
+
+.rounded {
+    margin: 2%;
+    border-radius: 50%;
+    padding: 1%;
+    border: 8px solid transparent;
+    background: linear-gradient(60deg, green 10%, brown 100%);
+}
+
+span {
+    color: aqua;
+    margin: 2%;
+}
+
+.data {
+    color: red;
+    background-color: lightgray;
+    text-align: center;
+    font-size: medium;
+    height: 50%;
+}
+
+#head {
+    color: rgb(196, 25, 159);
+    font-size: medium;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+}
